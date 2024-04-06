@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\authemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\authemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\authenticationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\getorderbylocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\getorderbylocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|c:\\users\\hp 250 g7\\source\\repos\\pd\\packagedeliveryusingqrcode\\packagedeliveryusingqrcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B57348ED-5243-4E70-AB02-61E65D743601}|PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj|solutionrelative:packagedeliveryusingqrcode\\packagedeliveryusingqrcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Program.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Program.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Program.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:42:20.634Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetOrderbyLocationController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\GetOrderbyLocationController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\GetOrderbyLocationController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\GetOrderbyLocationController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\GetOrderbyLocationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:52:55.037Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Employee.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:18:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\AuthEmployee.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\AuthEmployee.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\AuthEmployee.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\AuthEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:17:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\AuthenticationContext.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\AuthenticationContext.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\AuthenticationContext.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\AuthenticationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:06:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:11:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Authentication.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\Authentication.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Authentication.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:17:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\LoginModel.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:17:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:06:56.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\AuthenticationsController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\AuthenticationsController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\AuthenticationsController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\AuthenticationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:07:54.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T05:44:10.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\appsettings.json",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\appsettings.json",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T07:09:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:38:01.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Models\\Customer.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:37:38.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAFUAAAAA//////8bwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:37:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PackagedeliveryusingQRcode.csproj",
+              "DocumentMoniker": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj",
+              "RelativeDocumentMoniker": "PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj",
+              "ToolTip": "C:\\Users\\HP 250 G7\\source\\repos\\PD\\PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj",
+              "RelativeToolTip": "PackagedeliveryusingQRcode\\PackagedeliveryusingQRcode.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T06:01:28.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
